@@ -6,11 +6,12 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: "G-HPEJ93TJSQ",
+        trackingId: "G-H6VDPZ3W2E",
       },
     },
     "gatsby-plugin-sharp",
     "gatsby-plugin-react-helmet",
+    //"gatsby-plugin-sitemap",
     "gatsby-plugin-offline",
     {
       resolve: "gatsby-plugin-manifest",

@@ -1,13 +1,11 @@
 {
   "hosting": {
     "public": "public",
+    "site" : "pretest-2563",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
     ]
-  },
-  "remoteconfig": {
-    "template": "remoteconfig.template.json"
   }
 }
